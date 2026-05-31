@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TasksCPPOne/TasksCPPOne.vcxproj" />
+  <Project Path="TasksCPPOne/TasksCPPOne.vcxproj" Id="0c1c7dfe-1f88-4df5-995b-522ad16e5060" />
 </Solution>
